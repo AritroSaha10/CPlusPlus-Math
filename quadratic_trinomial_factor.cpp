@@ -88,7 +88,7 @@ int main()
     long double b = 0;
     long double c = 0;
 
-    std::cout << "Program: Quadratic Trinomial Factor Machine (LQPFM)\nUsage: Factors quadratic trinomials and includes steps\nInput:\n\tFrom x^2 + bx + c:\n\t\tb\n\t\tc\nOutput: (x +- e)(x +- f)\n\n";
+    std::cout << "Program: Quadratic Trinomial Factor Machine (QTFM)\nUsage: Factors quadratic trinomials and includes steps\nInput:\n\tFrom x^2 + bx + c:\n\t\tb\n\t\tc\nOutput: (x +- e)(x +- f)\n\n";
 
     std::cout << "If in form of x^2 + bx + c,\n\tb = ";
     std::cin >> b;
